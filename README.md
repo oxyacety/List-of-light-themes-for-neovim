@@ -4,6 +4,6 @@
   
   ## VS Code light
   
-  The vscode.nvim theme by Mofiqul is a port of the well known VS code color scheme. It comes with a light and dark variant.
+  The vscode.nvim theme by Mofiqul is a port of the well known VS code color scheme. It comes with a light and dark variant. The following screenshot shows vs code light with treesitter highlighting enabled.
   
 ![VsCode](https://user-images.githubusercontent.com/66331806/194699029-9f330c21-4c56-41a7-b1ba-ed5df7e6a792.png)
