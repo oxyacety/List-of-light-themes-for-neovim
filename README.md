@@ -22,3 +22,9 @@ The github-nvim-theme is a port of the github light theme. It comes with a light
 
 ![Github_light](https://user-images.githubusercontent.com/66331806/194751504-2b400ad2-2496-46b0-9875-d907ccbde1e7.png)
 
+## Intellij light
+https://github.com/chiendo97/intellij.vim
+
+This is a port of the intellij light theme. The following screenshot shows intellij with treesitter highlighting enabled.
+
+![Intellij](https://user-images.githubusercontent.com/66331806/194751900-bb368974-f9cd-47cc-a638-a9d0a5f1967f.png)
