@@ -14,3 +14,11 @@
 Leuven-ish is a vim port of the popular leuven colorscheme for emacs. The following screenshot shows leuven-ish with treesitter highlighting enabled.
 
 ![Leuven-ish](https://user-images.githubusercontent.com/66331806/194699436-7174246a-9d8d-40ce-872e-d042d46e8a86.png)
+
+## Github light
+https://github.com/projekt0n/github-nvim-theme
+
+The github-nvim-theme is a port of the github light theme. It comes with a light and dark variant. The following screenshot shows github_light with treesitter highlighting enabled.
+
+![Github_light](https://user-images.githubusercontent.com/66331806/194751504-2b400ad2-2496-46b0-9875-d907ccbde1e7.png)
+
