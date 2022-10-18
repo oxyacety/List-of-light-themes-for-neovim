@@ -35,3 +35,12 @@ https://github.com/ayu-theme/ayu-vim
 The following screenshot shows ayu light with treesitter highlighting enabled.
 
 ![AyuLight](https://user-images.githubusercontent.com/66331806/194752226-0cfb88d0-2035-478b-b170-86ab74a8be8c.png)
+
+## Catppuccin Latte
+https://github.com/catppuccin/nvim
+
+The following screenshot shows catppuccin which has very popular dark variants in its' light variation which is called "latte". The screenshot is with treesitter highlighting enabled.
+
+![Catppuccin](https://user-images.githubusercontent.com/66331806/196540902-d5192e02-aca0-4cec-82cf-9863bac31653.png)
+
+
