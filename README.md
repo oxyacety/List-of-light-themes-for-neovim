@@ -43,4 +43,11 @@ The following screenshot shows catppuccin which has very popular dark variants i
 
 ![Catppuccin](https://user-images.githubusercontent.com/66331806/196540902-d5192e02-aca0-4cec-82cf-9863bac31653.png)
 
+## Nightfox / Dayfox
+https://github.com/EdenEast/nightfox.nvim
+
+The following screenshot shows the light version of the very popular Nightfox colorscheme. It is called "Dayfox". The screenshot is with treesitter highlighting enabled.
+
+![Dayfox](https://user-images.githubusercontent.com/66331806/196543056-4af66277-019c-4c63-b6e2-5e50a2eb5579.png)
+
 
